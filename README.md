@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MohsenMashkour<br>👀 I’m interested in Android development<br>🌱 I’m currently learning Kotlin<br>💞️ I’m looking to collaborate on android<br>📫 How to reach me mohsen.mashkour@gmail.com
+👋 Hi, I’m @MohsenMashkour<br>👀 I’m interested in Android development<br>🌱 I’m currently learning and teaching Android<br>💞️ I’m looking to collaborate on Android<br>📫 How to reach me mohsen.mashkour@gmail.com
 
 
 ## 🌐 Socials:
